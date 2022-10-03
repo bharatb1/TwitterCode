@@ -32,7 +32,7 @@
 
    }
 ?>
-
+<!--CONTAINER_WRAP ENDS-->
 <html>
 	<head>
 		<title>Account Settings</title>
