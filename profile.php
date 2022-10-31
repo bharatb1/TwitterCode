@@ -17,6 +17,9 @@
 	
 <!--Helvetica Neue-->
 <body>
+
+	<!--Meant as heading-->
+	<p> Div class </p>
 <div class="wrapper">
 <!-- header wrapper -->
 <div class="header-wrapper">	
@@ -53,7 +56,7 @@
 		</div><!-- nav right ends-->
 
 	</div><!-- nav ends -->
-	</div><!-- nav container ends -->
+	</div><!-- nav container will conclude here -->
 </div><!-- header wrapper end -->
 <!--Profile cover-->
 <div class="profile-cover-wrap"> 
