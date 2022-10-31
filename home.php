@@ -17,6 +17,8 @@
 
 <!DOCTYPE HTML> 
  <html>
+	 // Heading for the page
+	 // For including CSS assets 
 	<head>
 		<title>Code-Tweeter</title>
 		  <meta charset="UTF-8" />
@@ -37,7 +39,7 @@
 		<div class="nav-left">
 			<ul>
 				<li><a href="#"><i class="fa fa-home" aria-hidden="true"></i>Home</a></li>
-				<li><a href="i/notifications"><i class="fa fa-bell" aria-hidden="true"></i>Notification</a></li>
+				<li><a href="i/notifications"><i class="fa fa-bell" aria-hidden="true"></i>Notifications</a></li>
 				<li><i class="fa fa-envelope" aria-hidden="true"></i>Messages</li>
 			</ul>
 		</div><!-- nav left ends-->
