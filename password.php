@@ -41,6 +41,7 @@
 		<link rel="stylesheet" href="<?php echo BASE_URL;?>assets/css/style-complete.css"/>
 	</head>
 	<!--Helvetica Neue-->
+<!-- the text is updated -->
 <body>
 <div class="wrapper">
 <!-- header wrapper -->
